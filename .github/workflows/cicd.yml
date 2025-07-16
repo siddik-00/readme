@@ -13,7 +13,7 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: read hello.txt
+    - name: read2 hello.txt
       run: |
       
         cat hello.txt
